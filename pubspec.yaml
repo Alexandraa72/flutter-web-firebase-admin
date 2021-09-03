@@ -6,8 +6,8 @@ environment:
   sdk: '>=2.3.0 <3.0.0'
 
 dependencies:
-  flutter_web: any
-  flutter_web_ui: any
+  flutter_web: 
+  flutter_web_ui: 
   firebase: ^5.0.3  
 
 dev_dependencies:
